@@ -1,0 +1,7 @@
+C:\Users\Uzwala\source\repos\Code3\Code3\bin\Debug\Code3.exe.config
+C:\Users\Uzwala\source\repos\Code3\Code3\bin\Debug\Code3.exe
+C:\Users\Uzwala\source\repos\Code3\Code3\bin\Debug\Code3.pdb
+C:\Users\Uzwala\source\repos\Code3\Code3\obj\Debug\Code3.csprojAssemblyReference.cache
+C:\Users\Uzwala\source\repos\Code3\Code3\obj\Debug\Code3.csproj.CoreCompileInputs.cache
+C:\Users\Uzwala\source\repos\Code3\Code3\obj\Debug\Code3.exe
+C:\Users\Uzwala\source\repos\Code3\Code3\obj\Debug\Code3.pdb
