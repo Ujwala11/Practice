@@ -1,0 +1,7 @@
+C:\Users\Uzwala\source\repos\code2\code2\bin\Debug\code2.exe.config
+C:\Users\Uzwala\source\repos\code2\code2\bin\Debug\code2.exe
+C:\Users\Uzwala\source\repos\code2\code2\bin\Debug\code2.pdb
+C:\Users\Uzwala\source\repos\code2\code2\obj\Debug\code2.csprojAssemblyReference.cache
+C:\Users\Uzwala\source\repos\code2\code2\obj\Debug\code2.csproj.CoreCompileInputs.cache
+C:\Users\Uzwala\source\repos\code2\code2\obj\Debug\code2.exe
+C:\Users\Uzwala\source\repos\code2\code2\obj\Debug\code2.pdb
